@@ -147,6 +147,8 @@ body {
   background-color: #1a1a1a;
   background-color: white;
   color: black;
+  font-family: 'Roboto', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
 }
 
 p,
@@ -281,12 +283,12 @@ h5 {
 }
 
 #navbar .navbar-toggler {
-  background: #72dbc9;
+  background:  #d61c1c;
   border: none;
 }
 
 #navbar .navbar-nav .nav-item .nav-link {
-  color: black;
+  color: white;
   font-weight: 400;
   font-size: 14px;
   font-family: "muse-500", Arial, sans-serif;
@@ -297,7 +299,7 @@ h5 {
 
 #navbar .navbar-nav .nav-item .nav-link.active,
 #navbar .navbar-nav .nav-item .nav-link:hover {
-  color: #72dbc9 !important;
+  color: #d61c1c !important;
   transition: all 0.5s ease-out;
 }
 
@@ -316,7 +318,7 @@ h5 {
 
 #header #header-container {
   padding: 50px;
-  background: url('https://thumbs.gfycat.com/InformalEdibleArgentinehornedfrog-small.gif');
+  background: url('https://static.dezeen.com/uploads/2018/07/red-rocks-residence-the-ranch-mine-architecture-arizona-usa_dezeen_col-1704.gif');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -598,7 +600,7 @@ footer {
   padding: 20px;
   /* height: 300px!important; */
   /* background: #d145ac; */
-  background: #2a2b2b;
+  background: #d61c1c;
   color: white;
 }
 
