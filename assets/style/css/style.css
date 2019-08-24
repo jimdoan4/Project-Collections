@@ -145,7 +145,8 @@ html {
 body {
   /* background-color: #2a2b2b; */
   background-color: #1a1a1a;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 p,
@@ -285,7 +286,7 @@ h5 {
 }
 
 #navbar .navbar-nav .nav-item .nav-link {
-  color: white;
+  color: black;
   font-weight: 400;
   font-size: 14px;
   font-family: "muse-500", Arial, sans-serif;
@@ -315,7 +316,7 @@ h5 {
 
 #header #header-container {
   padding: 50px;
-  background: url('http://interactive.unwomen.org/multimedia/timeline/womensfootprintinhistory/en/img/portada/Montaje.gif');
+  background: url('https://thumbs.gfycat.com/InformalEdibleArgentinehornedfrog-small.gif');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -660,7 +661,7 @@ footer .container-fluid .copyright-area p a {
   #navbar.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px;
-    background: #2a2b2b;
+    overflow: hidden;
     color: white;
   }
 }
